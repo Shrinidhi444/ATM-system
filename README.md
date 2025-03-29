@@ -50,7 +50,7 @@ ATM-System/
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the repository**
 ```sh
-git clone https://github.com/your-username/ATM-System.git
+git clone https://github.com/Shrinidhi444/ATM-System.git
 cd ATM-System
 ```
 
