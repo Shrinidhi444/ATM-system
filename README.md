@@ -1,7 +1,5 @@
 # ATM-system
 
-# ATM System Project 
-
 ## 📌 Project Overview
 The **ATM System** project is a simulation of an Automated Teller Machine (ATM) that allows users to perform banking operations such as withdrawing money, checking balances, and depositing funds securely.
 
